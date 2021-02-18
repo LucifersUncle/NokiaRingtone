@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5gei0Fdp62GxhA2Adn5prEMR4FUPSJ5EiZ5XHmBWBhqU9AZ0Wd36jujwqC0o+PFeZKArNvQAomt+9tOfj3tHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
